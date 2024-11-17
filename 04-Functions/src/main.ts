@@ -24,3 +24,10 @@ const add = (a: number , b: number):number => {
 }
 
 //type aliesase 
+interface Chat {
+    username:string;
+    id:number;
+    
+}
+
+
